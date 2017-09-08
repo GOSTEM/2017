@@ -1,0 +1,28 @@
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+background-image: url("images/hadiza.png");
+font-family: 'Pacifico', cursive;
+font-weight:lighter;
+}
+h1, h2 {font-family: 'Lobster', cursive;}
+
+header {
+background-image: url("http://i.imgur.com/LBHWRyb.jpg");
+color: purple;
+}
+.loves,
+footer {
+  text-align: center;
+}
+.profile-img{
+  float:center;
+  border-radius: 195px;
+}
+
+  header h1{line-height: 500%;}

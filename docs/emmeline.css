@@ -1,0 +1,28 @@
+html {box-sizing: border-box;}
+*, *before, *after {box-sizing: inherit;}
+
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
+  margin: 0;
+  padding:0;
+background: #7D8CC4
+}
+h1, h2 {font-family: 'Just Another Hand', cursive}
+footer p {font-size: 35px}
+footer h1 {font-family: 'Yellowtail',cursive;} /*That's all Folks! */
+header {background: #B8DBD9;margin: 0; padding: 0}
+.Loves {background: #B8DBD9;margin: 0; padding: 0}
+.About {background: #B8E1FF;margin: 0; padding: 0}
+footer {background: #B8E1FF;margin: 0; padding: 0}
+header {margin: 0; padding: 0}
+h1, h2, p, {margin: 0; padding: 0}
+footer {text-align: center;}
+header, h1 {text-align: center;}
+h1{font-size: 50px}
+p {font-size: 20px}
+.headshot {border-radius: 50%}
+.cookies, .cake {border-radius: 50%}
+a {color: #7D8CC4}
+a:hover{color: #AAABBC}
+.Loves, .About, header, footer {text-align: center;}

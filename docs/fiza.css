@@ -1,0 +1,28 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+	font-family: 'Amati SC', cursive;
+	background:pink;
+font-weight: lighter; 
+margin: 0px ;
+padding: 0px;
+text-align: center;
+}
+h1{
+font-family: 'berkshire Swash', cursive;
+}
+header {
+	color: #ff6699
+background-image: ;
+}
+.loves, 
+footer { text-align:;
+  text-align: center;
+}
+.img{
+	height: 200px; width: auto ;
+}

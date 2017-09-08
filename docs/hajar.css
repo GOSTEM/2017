@@ -1,0 +1,25 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {text-align: center;
+ background:#E34791;
+ font-family:'Arima Madurai', cursive;
+ font-weight: lighter;
+ margin: 0;
+ padding: 0;
+}
+h1 {
+  font-family:  'Walter Turncoat', cursive;
+}
+/* CSS Comments
+----------------*/
+header {
+  background: rgb(255, 105, 180);
+}
+.loves,
+footer {
+  text-align: center;
+}

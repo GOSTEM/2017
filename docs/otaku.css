@@ -1,0 +1,72 @@
+body {
+  background-image: url(Froakie.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: 'Poppins', sans-serif;
+  font-weight: normal;
+}
+h1 {
+  background: rgba(52,152,219,0.8);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+  color: #ecf0f1;
+  text-align: center;
+}
+h2 {
+  color: #bdc3c7;
+  background-color: rgba(52,152,219,0.8);
+  font-size: 30px;
+    text-align: center;
+}
+h3 {
+  color: #bdc3c7;
+  background-color: rgba(41,128,185,0.8);
+  font-size: 30px;
+  text-align: center;
+}
+h4 {
+  font-size: 30px;
+  color: #1abc9c
+}
+p {
+  color: #ecf0f1;
+  font-size: 20px
+}
+.about {
+  background: rgba(41,128,185,0.8)
+}
+.loves {
+  background: rgba(52,152,219,0.8);
+}
+.mudkipz {
+  border-radius: 5%;
+  float: right;
+}
+.greninja {
+  float: left;
+  margin-right: 10px;
+  margin-top: -50px
+}
+.deer {
+  float: right;
+  margin-top: -75px;
+}
+.pokemony, .pokemonas, .pokemonss, .pokemonm {
+  border-radius: 5%
+}
+footer {
+  text-align: center;
+  background-color: rgba(236,240,241,0.8)
+}
+h5 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #ecf0f1;
+    text-align: center;
+}
+.disclaimer {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  background-color: rgba(52,152,219,0.8);
+}

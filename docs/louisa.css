@@ -1,0 +1,63 @@
+
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+ box-sizing: border-box;
+}
+*, *:before, *:after {
+ box-sizing: inherit;
+}
+
+body {
+ color: white;
+ font-family: 'Rock Salt', cursive;
+ font-weight: lighter;
+ font-size: 99px;
+ margin: 0px;
+ padding: 0;
+ text-align: center;
+}
+
+h1, h2, {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-weight: bold;
+  font-size: 99px;
+  margin: 0px;
+  padding: 0;
+  text-align: center;
+}
+
+.profile-img{
+  display: block;
+  margin: auto;
+  float: center;
+  border-radius: 50%
+}
+
+header {
+background-image: url("nostalgic_blue_background_06_hd_pictures_169782.jpg");
+  margin: 0px;
+  padding: 0;
+}
+.Kermit {
+  background-image: url("nostalgic_blue_background_06_hd_pictures_169782.jpg");
+  margin: 0px;
+  padding: 0;
+  text-align: center;
+}
+.Questions {
+background-image: url("nostalgic_blue_background_06_hd_pictures_169782.jpg");
+  margin: 0px;
+  padding: 0;
+}
+
+.sad-kermit{
+  display: block;
+  float: left;
+  border-radius: 50%
+}
+p {
+  margin:0px;
+  padding: 0;
+  color:white;
+  font-size:50px;
+}

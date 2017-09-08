@@ -1,0 +1,93 @@
+  background: #;
+  background: #;
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color:black;
+}
+h1, h2 {
+  font-family: 'Bad Script', cursive;
+  margin: 0; /* removes default space */
+  font-weight: normal; /* removes default bold style */
+}
+h1 {
+  font-size: 100px;  
+}
+p {
+  font-size: 18px;
+  line-height: 1.5; /* adjusts space between the lines */
+}
+a {
+  color: #9D6381; 
+}
+a:hover {
+  color: #CECCCC;
+}
+header, 
+section, 
+footer {
+  padding: 100px 150px;
+}
+.loves, 
+footer {
+  text-align: center;
+}
+strong {
+  color: #9D6381;
+}
+img {
+  border-radius: 50%;
+}
+
+
+/* PAGE HEADER
+-----------------------------------------*/
+header {
+   background-image: url("https://s-media-cache-ak0.pinimg.com/originals/f4/6f/13/f46f137a92d4828fab38424649e60e52.jpg");
+    background-color: #cccccc;
+}
+header h1 {
+  font-size: 100px;
+}
+header h2 {
+  font-size: 32px;
+}
+
+
+/* ABOUT
+-----------------------------------------*/
+.profile-img {
+  float: right;
+  margin-left: 20px;
+  color:black;
+}
+.about h1{font-family: 'Playfair Display', serif;
+}
+/* LOVES - things I love 
+-----------------------------------------*/
+.loves {
+  background: #9D6381;
+}
+.loves img {
+  width: 250px;
+  margin: 15px;
+}
+
+
+/* FOOTER - contact info
+-----------------------------------------*/
+footer {
+  background: #0F110C;
+  color: #CECCCC;
+}

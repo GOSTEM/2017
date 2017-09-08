@@ -1,0 +1,15 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {text-align:center;
+  background:darkturquoise;
+  font-family:'Josefin Sans', sans-serif; font-size:25px;
+  margin: 0;
+  padding: 0;}
+h1{background:aquamarine; font-family:'Gloria Hallelujah',cursive; margin: 0; padding: 0;}
+
+h2 {background:aquamarine; font-family:'Gloria Hallelujah', cursive; margin:0; padding: 0;}
+footer {text-align: center}

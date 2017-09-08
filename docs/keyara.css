@@ -1,0 +1,82 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+  margin:0;
+	padding:0;
+
+}
+
+
+body {
+	  	  font-family: 'Playfair Display', serif;	  
+	  	  margin:0;
+	      padding:0;
+	      font-size: 80px ;
+	      background-image: url("images/");
+
+
+}
+ 
+  h2,h3 {
+	font-family: 'Playfair Display', serif;
+	margin:0;
+	padding:0;
+	font-size: 80px ;
+}
+
+header {
+
+	font-family: 'Playfair Display', serif;;
+	background-image:url(http://i.imgur.com/Xf4Posx.jpg);
+ 	font-size: 120px ;
+   }
+    .img{
+      border-radius: 59%;
+    }
+
+    .img-2 
+    {float: right;
+    }
+
+    .img-3
+    {float:left;
+     }
+
+    .img-4
+    {float:center;
+    }
+ 
+ .about {
+font-size: 80px
+ 	margin: 0;
+ 	padding:0;
+ 	background-color: rgb(199,201,198);
+ 	overflow: hidden;
+ }
+   
+   .loves{
+   	margin:0;
+   	padding:0;
+   	background-image:url(http://i.imgur.com/Xf4Posx.jpg);
+font-size: 80px
+   }
+
+    header h1 {
+   	font-size: 80px ;
+   }
+   .profile-img
+    {float: right;
+    	border-radius: 50%;
+    }
+    a {
+  padding: 10px;
+}
+a:hover { 
+  border: 1px solid black;
+  background: red;
+  color: white;
+}
+
+

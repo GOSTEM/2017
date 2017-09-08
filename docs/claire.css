@@ -1,0 +1,39 @@
+html
+{box-sizing: border-box;}
+*, *:before, *:after
+{box-sizing: inherit;}
+body {background: #F3DAD8;}
+p {font-size: 18px;}
+body, p {font-family: 'Indie Flower', cursive;
+font-weight: 400;}
+h1,
+h2
+{font-family: 'Dosis', sans-serif;}
+header {background: #F3DAD8;}
+ .about{background: #CA9CE1;}
+.loves {background: #7D8CC4;}
+footer {text-align: center;}
+h2 {text-align: center}
+.profile-img
+{float:right;
+ margin-left: 20px;}
+
+.dance-img
+{float:right;
+   margin-left: 20px;}
+
+.music_notes-img
+{float:right;
+ margin-left: 20px;
+ border-radius: 50%;}
+
+.book-img
+{float:right;
+ margin-left: 20px;}
+
+a:hover
+{background:#7D8CC4 ;
+  color: #F3DAD8;}
+
+a
+{color: #A569BD;}
