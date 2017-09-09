@@ -15,6 +15,8 @@ body {
  margin: 0px;
  padding: 0;
  text-align: center;
+ background: url("http://i.imgur.com/TGFrq4Z.jpg") no-repeat fixed;
+ background-size: cover;
 }
 
 h1, h2, {
@@ -34,18 +36,15 @@ h1, h2, {
 }
 
 header {
-background-image: url("nostalgic_blue_background_06_hd_pictures_169782.jpg");
-  margin: 0px;
+ margin: 0px;
   padding: 0;
 }
 .Kermit {
-  background-image: url("nostalgic_blue_background_06_hd_pictures_169782.jpg");
   margin: 0px;
   padding: 0;
   text-align: center;
 }
 .Questions {
-background-image: url("nostalgic_blue_background_06_hd_pictures_169782.jpg");
   margin: 0px;
   padding: 0;
 }
