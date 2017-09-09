@@ -1,0 +1,68 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  background-image: url("new-york-city.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+ font-family: 'Playfair Display', serif;
+font-weight:lighter;
+margin: 0px;
+padding: 0px;
+font-size: 18px;
+}
+h1,h2, {
+  font-family:  'PT Serif', serif;
+  margin: 0;
+  padding: 0;
+
+}
+p{
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: (242,186,255);
+  margin: 0px;
+  padding: 0px;
+  font-size: 20px;
+  }
+.about{
+  background-color: rgba(234,203,237,0.50);
+  margin: 0px;
+  padding: 0px;
+  line-height: 400%;
+
+}
+.loves{
+  background: (234,203,237);
+  margin: 0px;
+  padding: 0px;
+}
+.loves,.about, footer{
+  text-align: center;
+}
+header h1 {
+  font-size: 95px;
+  text-align: center;
+}
+.profile-img {
+  border-radius: 60px;
+  float: left;
+  margin-left: 20px
+
+}
+.loves {border-radius: 60px;}
+.food { border-radius:60px;}
+.baking {border-radius: 60px;}
+.sports {border-radius: 60px}
+a:hover {
+  border: 1px solid black;
+  background: pink;
+  color: white;
+}

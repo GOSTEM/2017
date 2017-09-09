@@ -1,0 +1,42 @@
+body{
+    background-image: url("http://i.imgur.com/cb5aGaT.jpg");
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background:rgba(154,130,178,.65);
+  margin-right: 180px;
+  margin-left: 180px;
+  padding: 0;
+}
+h1 {font-family: 'Lobster', cursive;
+margin: 0;
+padding: 0;
+font-size: 90px;
+}
+h2 {font-family: 'Sedgwick Ave Display', cursive;
+margin: 0;
+padding: 0;
+font-size: 30px}
+.about {
+  background: rgba(154,130,178,.65);
+  margin-right: 180px;
+  margin-left: 180px;
+  padding: 0;}
+.loves {background: rgba(154,130,178,.65);
+  margin-right: 180px;
+  margin-left: 180px;;
+  padding: 0;}
+footer {background: rgba(154,130,178,.65);
+  margin-right: 180px;
+  margin-left: 180px;
+  padding: 0;}
+p {margin: 0;
+  padding: 0;
+  font-size: 20px;
+}
+.images-img {border-radius: 50%;}

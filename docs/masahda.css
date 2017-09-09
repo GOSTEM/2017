@@ -1,0 +1,59 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  background: lightblue;
+
+font-family: 'Indie Flower', cursive;
+font-weight: lighter;
+font-size: 45px;
+margin: 0px
+
+}
+h1{
+  font-family: 'Arvo', serif;
+  font-size: 50px;
+
+}
+
+header{
+  background: #d6c5de;
+
+}
+.about {
+background: #f7dfsf;
+}
+.loves,.about,footer {
+  text-align: center;
+}
+header h1{
+  text-align: center;
+  font-size: 90px
+}
+.profile-img{
+  float:left;
+  border-radius:25%
+
+}
+.profile-img{
+  margin-right: px
+}
+.cake{
+  border-radius: 25%;
+}
+.knitting{
+  border-radius: 25%
+}
+.music{
+  float: right;
+  border-radius: 25%
+
+}
+a:hover {
+  border: 1px solid black;
+  background: pink;
+  color: white;
+}

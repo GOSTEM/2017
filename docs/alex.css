@@ -1,0 +1,40 @@
+html { box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  background-color: Lavender;
+  font-family: 'Architects Daughter', cursive;
+font-weight: lighter;
+font-size:27px;
+margin: 0;
+padding: 0;
+text-align:center;
+}
+title {font-size: 98px;
+line-height: 200%
+font-weight:bold;}
+h1, h2, h3 {font-family: 'Shadows Into Light', cursive;
+font-size:86px;
+line-height: 100%;
+margin:0;
+padding:0;
+}
+
+header {
+  background-image:url("http://i.imgur.com/9jp2J8V.jpg") ;}
+  .about {
+    text-align:center; }
+  .profile-img {display:block;
+    margin: auto;
+  border-radius: 85px;}
+header h2 {
+  text-align:center;}
+  .h2-img {display-block;
+    margin:auto:
+    border-radius: 85px;}
+    header h3{
+      text-align:center;}
+      .h3-img {display-block;
+      margin:auto}

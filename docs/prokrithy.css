@@ -1,0 +1,55 @@
+ html {
+  box-sizing: border-box;
+}
+  *, *:before, *:after {
+    box-sizing: inherit;
+    }
+ body {
+   background: #FFB6C1;
+   font-family: 'Arapey', serif;
+   font-weight:normal;
+   margin: 0;
+   padding: 0;
+   font-size:  20px;
+   text-align: center;
+ }
+h1, h2 {
+  font-family: 'Alegreya', serif;
+  text-align: center;
+  font-style: italic;
+}
+.about {
+   color:	#FFF5EE;
+   text-align: center;
+   overflow: hidden;
+   font-size: 20px;
+}
+.loves {
+  text-align: center;
+  overflow: hidden;
+  font-size: 20px;
+}
+header {
+  color: #FFF5EE;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-image: url("images/polkadots.png");
+}
+footer {
+  color: #FFF5EE;
+}
+.profile-img{
+  float:right;
+  margin-right: 50px;
+  border-radius: 50%;
+}
+a {
+  color: white;
+  padding: 10px;
+}
+a:hover {
+  border: 1px solid black;
+  background: black;
+  color: white;
+}
